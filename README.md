@@ -8,7 +8,7 @@ Explore Web App for Containers on Azure which allows you to:
 - Easily deploy and run containerized applications that scale with your business 
 - Use a fully-managed platform to perform infrastructure maintenance 
 - Take advantage of built-in auto scaling and load balancing 
-- Streamline CI/CD with Docker Hub, Azure Container Registry, and GitHub 
+- Streamline CI/CD with Docker Hub, Azure Container Registry, GitHub and Jenkins 
  
 This workshop will cover various phases of application migration to the cloud using [Web App for Containers](https://azure.microsoft.com/en-us/services/app-service/containers/).
 
@@ -24,13 +24,13 @@ All attendees:
 - Laptop must be connected to internet via WiFi.
 - Azure Pass/Azure Free trial Subscription and Login to Azure portal (Cloud Shell) or the Azure CLI 2.0.
 
-## Schedule
+## Schedule (60 minutes in total)
 
-    Welcome, introduction & logistics (15 minutes)  
-    Overview of Web App for Containers (30 minutes)  
-    Lab Setup (15 minutes)  
-    Break (15 minutes)  
-    Hands on Lab in session 
+    Welcome, introduction & logistics (10 minutes)  
+    Hands on Lab in session (part #1) (20 minutes) 
+    Break and Q/A (5 minutes)  
+    Hands on Lab in session (part #2) (20 minutes)
+    Wraping and Q/A (5 minutes) 
 
 ## Lab Content 
-- [Hands on Lab 100 - Using Docker Hub + Django Poll Application](100.md)
+- [Hands on Lab](https://github.com/yiliaomsft/microsoft-ready18-lab)
