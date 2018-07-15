@@ -1,4 +1,4 @@
-# Web App for Containers - Workshop Agenda
+# AIP-APPS-TW300: Build, deploy and run container-based Web Apps using App Service
 
 ## Overview
 
