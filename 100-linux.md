@@ -41,6 +41,7 @@ The purpose of this Hands on Lab (HOL) is to have an understanding of how to:
     Login with the credentials you configured during Step 1 (Create a Linux Bash Shell) 
 
 ## Install Docker on the linux machine  
+    # if you use the lab machine, Docker is already installed. 
 
     # Run the following commands to set up Docker engine and CLI tools
 
