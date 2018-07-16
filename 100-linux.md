@@ -16,7 +16,10 @@ The purpose of this Hands on Lab (HOL) is to have an understanding of how to:
 
 # Tasks
 
-## Create a native Linux Environment
+## Prepare for Linux Dev Enviroment
+    You can skip this section if you use the virtual lab as we have pre-built Linux image
+    
+### Create a native Linux Environment
     You will require access to a native Linux Enviroment for this Hands on Lab
 
     You can use ONE (1) of the follow three (3) options:
@@ -31,7 +34,7 @@ The purpose of this Hands on Lab (HOL) is to have an understanding of how to:
             - Choose DS1V2 for Virtual machine size 
             - Once the machine is deployed successfully, make a note of the virtual machine's Public IP address 
 
-## Install Putty to access your VM (Windows Users Only!)
+### Install Putty to access your VM (Windows Users Only!)
 
     Download putty.exe (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html ) locally on your laptop to SSH into the virtual machine
     Open Putty.exe and enter the IP address in Host text field and click on Open
@@ -40,7 +43,7 @@ The purpose of this Hands on Lab (HOL) is to have an understanding of how to:
      
     Login with the credentials you configured during Step 1 (Create a Linux Bash Shell) 
 
-## Install Docker on the linux machine  
+### Install Docker on the linux machine  
     # if you use the lab machine, Docker is already installed. 
 
     # Run the following commands to set up Docker engine and CLI tools
