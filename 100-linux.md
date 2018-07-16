@@ -172,7 +172,9 @@ Go to your Docker Hub page , click Webhooks, then [CREATE A WEBHOOK](https://doc
  
 ##  Push an update to Docker image 
 
-Go back to Azure Virtual machine to make more changes. Build the image and then push it to your Docker Hub repository. Follow the steps above to do the same
+Go back to Azure Virtual machine to make more changes, for example: making a small text change in ./app/templates/app/index.html
+
+Build the image and then push it to your Docker Hub repository. Follow the steps above to do the same
 
 ## Browse the app 
 
